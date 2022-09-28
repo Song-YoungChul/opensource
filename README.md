@@ -8,5 +8,3 @@ third push clear
 
 ## good
 
-DDDDDDDDDDDDDDDDDDDDDDDDD
-asdfsadfasdfsdafadwf
