@@ -1,11 +1,6 @@
 # opensource
 
-Hello World!
+# OSSProj 과제4 "git 다루기"
 
-I'm YoungChul Song
+Hello World! 영철
 
-third push clear
-
-## good
-
-asdf
